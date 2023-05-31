@@ -10,8 +10,8 @@ Technologies used:
 * CSS
 
 After stress detection, stress is management using web features
-*Blog pages
-*Mediative music
+* Blog pages
+* Mediative music
 
 
 
