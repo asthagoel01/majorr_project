@@ -8,7 +8,7 @@ In this project,
 * Flask - framework between ML and web
 * HTML,CSS,JavaScript - for frontend
 
-#Workflow:
+# Workflow:
 
 frontend (receive input)-> sent to flask app->Stress Classification using Machine Learing model->Flask(output sent)->frontend
 
