@@ -1,7 +1,7 @@
 # PCS 23-56: Stress Detection and Stress Management using ML
 In this project, 
 * we have integrated ML and web development
-* 
+ 
 ##Technologies used:##
 * Machine Learning - for detection
 * Python - used as langauge in Machine Learning and Flask
