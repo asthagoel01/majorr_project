@@ -11,6 +11,7 @@ In this project,
 # Workflow:
 
 frontend (receive input)-> sent to flask app->Stress Classification using Machine Learing model->Flask(output sent)->frontend
+![workflow](https://github.com/asthagoel01/images/blob/8f051ef3c5864d0b92adc34ecde341586b3e8c80/3.png)
 
 
 After stress detection, stress is management using web features
@@ -20,7 +21,7 @@ After stress detection, stress is management using web features
  
 ![web features](https://github.com/asthagoel01/images/blob/0193545acf63c34823dcc119773690dec385cbbe/1.jpg)
 
-# Optimisation
+# Optimisation:
 Improved accuracy of SVM algorithm on DASS-42 dataset using hyperparameter tuning.
 Tuned hypermater - Kernel Function
 ![optimisation](https://github.com/asthagoel01/images/blob/adb9078e7731e856a1bd940427248ad4099dd0b3/2.png)
