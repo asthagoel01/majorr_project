@@ -2,8 +2,8 @@
 In this project, we have integrated ML and web developmen
 frontend (receive input)-> sent to flask app->Stress Classification using Machine Learing model->Flask(output sent)->frontend
 Technologies used:
-Machine Learning 
-Python
-Flask
-HTML
-CSS
+* Machine Learning 
+* Python
+* Flask
+* HTML
+? CSS
